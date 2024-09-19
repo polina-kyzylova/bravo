@@ -1,0 +1,23 @@
+.container {
+    background-color: var(--base-white);
+    border-radius: var(--card-radius);
+    padding: var(--extra-padding) var(--base-padding) var(--base-padding) var(--base-padding);
+}
+
+.title {
+    text-transform: uppercase;
+    font-size: var(--lbl-medium-size);
+    font-weight: 400;
+    padding-bottom: var(--extra-padding);
+}
+
+.text p {
+    font-size: var(--lbl-small-size);
+    line-height: var(--line-space);
+    font-weight: 200;
+}
+
+.text span {
+    font-weight: 600;
+    font-style: italic;
+}

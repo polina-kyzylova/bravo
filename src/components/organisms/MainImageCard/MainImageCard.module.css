@@ -1,0 +1,41 @@
+.container {
+    border-radius: var(--card-radius);
+    position: relative;
+    overflow: hidden;
+}
+
+.label {
+    position: absolute;
+    top: var(--extra-padding);
+    left: var(--base-padding);
+    z-index: 2;
+
+    color: var(--accent-blue);
+    text-transform: uppercase;
+    font-size: var(--lbl-medium-size);
+    font-weight: 400;
+}
+
+.cover {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    object-fit: cover;
+    z-index: 1;
+    height: 100%;
+}
+
+.main_btn {
+    position: absolute;
+    bottom: var(--base-padding);
+    right: var(--base-padding);
+    z-index: 2;
+
+    background-color: var(--accent-blue);
+    border: none;
+    outline: none;
+    font-size: var(--btn-font-size);
+    border-radius: var(--card-radius);
+    padding: .8rem 3.5rem;
+    cursor: pointer;
+}

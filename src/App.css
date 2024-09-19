@@ -1,0 +1,39 @@
+.App {
+    margin: 0;
+    padding: 0;
+  }
+  
+  .a {
+    text-decoration: none;
+  }
+  
+  .a:visited {
+    text-decoration: none;
+  }
+  
+  h1, h2, h3, h4, h5, p {
+    margin: 0;
+    padding: 0;
+  }
+  
+  :root {
+    /*----- colors -----*/
+    --base-black: #080808;
+    --base-white: #F0F0F0;
+
+    --accent-red: #DD4B4E;
+    --accent-green: #193528;
+    --accent-blue: #A5BEF7;
+  
+    /*----- padding and gap -----*/
+    --base-space: 0.5rem;
+    --card-radius: 15px;
+    --base-padding: 1rem;
+    --extra-padding: 3rem;
+    --line-space: 2.6rem;
+    
+    /*----- labels font -----*/
+    --lbl-small-size: 1.4rem;
+    --lbl-medium-size: 2.5rem;
+    --btn-font-size: 1.6rem;
+  }

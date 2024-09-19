@@ -1,0 +1,22 @@
+.container {
+    display: flex;
+    flex-direction: row;
+    padding-left: var(--base-padding);
+    height: min-content;
+    font-size: var(--lbl-small-size);
+    font-weight: 200;
+    align-self: flex-end;
+}
+
+.box_accent {
+    list-style: none;
+    padding: 0;
+    color: var(--accent-red);
+    line-height: var(--line-space);
+}
+
+.box {
+    list-style: none;
+    color: var(--base-white);
+    line-height: var(--line-space);
+}
