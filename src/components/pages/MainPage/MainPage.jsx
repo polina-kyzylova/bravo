@@ -1,6 +1,6 @@
 import React from 'react';
 import styles from './MainPage.module.css';
-import OnboardingTmpl from '../../templates/OnboardingTmpl/OnboardingTmpl';
+import OnboardingTmpl from '@templates/OnboardingTmpl/OnboardingTmpl';
 
 
 export default function MainPage() {

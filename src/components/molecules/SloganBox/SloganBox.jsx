@@ -16,7 +16,7 @@ export default function SloganBox() {
             <li>Stamina</li>
             <li>Confident</li>
             <li>Elegant</li>
-            <li>Greatest</li>
+            <li>Gorgeous</li>
         </ul>
     </div>
   )

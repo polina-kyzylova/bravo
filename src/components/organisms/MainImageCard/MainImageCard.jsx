@@ -1,6 +1,6 @@
 import React from 'react';
 import styles from './MainImageCard.module.css';
-import cover from '../../../assets/cover.jpg'
+import cover from '@assets/cover.jpg'
 
 
 export default function MainImageCard() {
