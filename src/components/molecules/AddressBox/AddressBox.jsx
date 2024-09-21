@@ -1,7 +1,8 @@
 import React from 'react';
 import styles from './AddressBox.module.css';
-import TelegramIcon from '@mui/icons-material/Telegram';
 import InstagramIcon from '@mui/icons-material/Instagram';
+import XIcon from '@mui/icons-material/X';
+import PinterestIcon from '@mui/icons-material/Pinterest';
 
 
 export default function AddressBox() {
@@ -11,10 +12,13 @@ export default function AddressBox() {
 
             <div className={styles.icons_box}>
                 <span className={styles.contact_icon}>
-                    <TelegramIcon sx={{ color: '#28533F', fontSize: 35 }} />
+                    <InstagramIcon sx={{ color: '#28533F', fontSize: 35 }} />
                 </span>
                 <span className={styles.contact_icon}>
-                    <InstagramIcon sx={{ color: '#28533F', fontSize: 35 }} />
+                    <XIcon sx={{ color: '#28533F', fontSize: 35 }} />
+                </span>
+                <span className={styles.contact_icon}>
+                    <PinterestIcon sx={{ color: '#28533F', fontSize: 35 }} />
                 </span>
             </div>
         </div>

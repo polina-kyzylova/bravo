@@ -1,6 +1,11 @@
 .container {
-    height: 85vh;
+    height: 84vh;
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     column-gap: var(--base-space);
+}
+
+.content span {
+    font-weight: 600;
+    font-style: italic;
 }

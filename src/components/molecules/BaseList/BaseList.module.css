@@ -1,0 +1,18 @@
+.container p {
+    font-weight: 400;
+}
+
+.container ul {
+    display: flex;
+    flex-direction: column;
+    gap: var(--base-padding);
+    list-style: none;
+    font-size: var(--lbl-mini-size);
+    font-weight: 200;
+    padding: 0;
+}
+
+.container li {
+    width: fit-content;
+    cursor: pointer;
+}

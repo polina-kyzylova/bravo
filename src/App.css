@@ -33,6 +33,7 @@
     --line-space: 2.6rem;
     
     /*----- labels font -----*/
+    --lbl-mini-size: 1.2rem;
     --lbl-small-size: 1.4rem;
     --lbl-medium-size: 2.5rem;
     --btn-font-size: 1.6rem;
