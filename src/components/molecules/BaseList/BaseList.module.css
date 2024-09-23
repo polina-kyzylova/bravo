@@ -1,5 +1,8 @@
 .container p {
+    font-size: var(--lbl-small-size);
+    line-height: var(--line-space);
     font-weight: 400;
+    text-transform: uppercase;
 }
 
 .container ul {
@@ -7,7 +10,7 @@
     flex-direction: column;
     gap: var(--base-padding);
     list-style: none;
-    font-size: var(--lbl-mini-size);
+    font-size: var(--lbl-small-size);
     font-weight: 200;
     padding: 0;
 }

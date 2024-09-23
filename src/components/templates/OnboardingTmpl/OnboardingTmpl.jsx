@@ -12,13 +12,11 @@ export default function OnboardingTmpl() {
         <div className={styles.content}>
           <h2>About</h2>
           <p>
-            Welcome to our unique boutique!<br />
-            Here you will find amazing outfits and accessories that are suitable for any occasion.
+            We are delighted to welcome you to the world of style and fashion!
+            Here, you will find a unique collection of clothing that is suitable for any
+            occasion - from casual looks to evening events. Our experienced stylists are here
+            to help you find the perfect outfit that will enhance your beauty and personality.
             <br /><br />
-          </p>
-          <p>
-            We believe that fashion is not only clothing, but also a way of communicating,
-            understanding oneself and the world around us. <br /><br />
           </p>
           <p>Let every passerby shout <span>Bravo</span> after you!</p>
         </div>

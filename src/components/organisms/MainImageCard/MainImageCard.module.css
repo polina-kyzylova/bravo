@@ -30,12 +30,4 @@
     bottom: var(--base-padding);
     right: var(--base-padding);
     z-index: 2;
-
-    background-color: var(--accent-blue);
-    border: none;
-    outline: none;
-    font-size: var(--btn-font-size);
-    border-radius: var(--card-radius);
-    padding: .8rem 3.5rem;
-    cursor: pointer;
 }

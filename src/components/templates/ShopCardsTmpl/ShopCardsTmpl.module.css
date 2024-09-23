@@ -1,0 +1,92 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    gap: var(--base-space);
+}
+
+.header {
+    height: 15vh;
+    display: flex;
+    justify-content: center;
+    color: var(--base-white);
+}
+
+.header h2 {
+    font-family: 'ForestSmooth';
+    font-weight: 200;
+    font-size: 4rem;
+    color: var(--accent-red);
+    padding-top: 1rem;
+}
+
+.back {
+    position: fixed;
+    top: 1rem;
+    left: 1.5vw;
+    z-index: 3;
+
+    background-color: rgba(0, 0, 0, .3);
+    backdrop-filter: blur(5px);
+    transition: all .3s ease-in-out;
+    cursor: pointer;
+
+    border: none;
+    outline: none;
+    height: 6rem;
+    width: 6rem;
+    border-radius: 6rem;
+
+    font-size: var(--lbl-mini-size);
+    color: var(--base-white);
+    font-weight: 200;
+}
+
+.back:hover {
+    background-color: rgba(0, 0, 0, .6);
+}
+
+.content {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: repeat(3, 1fr);
+    gap: var(--base-space);
+    grid-auto-flow: row;
+}
+
+.card {
+    height: 60vh;
+    display: grid;
+    background-color: #fff;
+    border-radius: var(--card-radius);
+    padding: var(--extra-padding) var(--base-padding) var(--base-padding) var(--base-padding);
+}
+
+.card:nth-child(10n+1) {
+    grid-column: span 2;
+}
+
+.card:nth-child(10n+7) {
+    grid-column: span 2;
+}
+
+.photo {
+    height: 15rem;
+    justify-self: center;
+}
+
+.card p {
+    font-size: var(--lbl-small-size);
+    font-weight: 200;
+}
+
+.info {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.info h2 {
+    text-transform: uppercase;
+    font-size: var(--lbl-medium-size);
+    font-weight: 200;
+}

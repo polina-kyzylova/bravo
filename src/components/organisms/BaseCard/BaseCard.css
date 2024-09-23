@@ -31,11 +31,6 @@
     font-weight: 200;
 }
 
-.card_container img {
-    width: 85%;
-    border-radius: var(--card-radius);
-}
-
 .card_container a {
     color: black;
     font-style: italic;

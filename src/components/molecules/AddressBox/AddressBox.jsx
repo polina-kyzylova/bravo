@@ -12,13 +12,13 @@ export default function AddressBox() {
 
             <div className={styles.icons_box}>
                 <span className={styles.contact_icon}>
-                    <InstagramIcon sx={{ color: '#28533F', fontSize: 35 }} />
+                    <InstagramIcon sx={{ color: '#509474', fontSize: 35 }} />
                 </span>
                 <span className={styles.contact_icon}>
-                    <XIcon sx={{ color: '#28533F', fontSize: 35 }} />
+                    <XIcon sx={{ color: '#509474', fontSize: 35 }} />
                 </span>
                 <span className={styles.contact_icon}>
-                    <PinterestIcon sx={{ color: '#28533F', fontSize: 35 }} />
+                    <PinterestIcon sx={{ color: '#509474', fontSize: 35 }} />
                 </span>
             </div>
         </div>

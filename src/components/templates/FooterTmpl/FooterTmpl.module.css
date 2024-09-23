@@ -23,11 +23,6 @@
     justify-content: space-between;
 }
 
-.content p {
-    font-size: var(--lbl-mini-size);
-    font-weight: 200;
-}
-
 .content span {
     font-family: 'ForestSmooth';
     font-size: 2rem;

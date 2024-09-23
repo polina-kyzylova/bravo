@@ -22,28 +22,26 @@ export default function FooterTmpl() {
           <div className={styles.link_box}>
             <BaseList label='Assistance'>
               <ul>
-                <li>Payment</li>
-                <li>Delivery</li>
                 <li>Exchanges and returns</li>
                 <li>Bravo Members Club</li>
+                <li>Payment</li>
+                <li>Delivery</li>
               </ul>
             </BaseList>
 
             <BaseList label='Legal and Cookies'>
               <ul>
-                <li>Payment 2</li>
-                <li>Delivery 2</li>
-                <li>Exchanges and returns</li>
-                <li>Bravo Members Club</li>
+                <li>Privacy agreement</li>
+                <li>Cookie usage notification</li>
+                <li>Ethical trading policy</li>
               </ul>
             </BaseList>
 
             <BaseList label='Customer service'>
               <ul>
-                <li>Payment</li>
-                <li>Delivery</li>
-                <li>Exchanges and returns</li>
-                <li>Bravo Members Club</li>
+                <li>About us</li>
+                <li>Contact us</li>
+                <li>Documents</li>
               </ul>
             </BaseList>
           </div>

@@ -19,14 +19,17 @@
   :root {
     /*----- colors -----*/
     --base-black: #080808;
+    --base-gray: #323334;
     --base-white: #F0F0F0;
 
     --accent-red: #DD4B4E;
     --accent-green: #193528;
     --accent-blue: #A5BEF7;
+
+    --hover-blue: #7D9EEC;
   
     /*----- padding and gap -----*/
-    --base-space: 0.5rem;
+    --base-space: 0.8rem;   /* 0.5rem */
     --card-radius: 15px;
     --base-padding: 1rem;
     --extra-padding: 3rem;
