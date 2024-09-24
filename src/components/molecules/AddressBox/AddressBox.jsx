@@ -4,7 +4,6 @@ import InstagramIcon from '@mui/icons-material/Instagram';
 import XIcon from '@mui/icons-material/X';
 import PinterestIcon from '@mui/icons-material/Pinterest';
 
-
 export default function AddressBox() {
     return (
         <div className={styles.container}>
