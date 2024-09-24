@@ -1,29 +1,9 @@
-## Available Scripts
+# About
+The goal of the project is to create a minimum viable product (MVP) for an online store for the Bravo fashion boutique. This project is not for commercial purposes, but rather to develop front-end development skills.
 
-In the project directory, you can run:
+<a href="" target="_blank" rel="noopener noreferrer">View the Bravo website</a>
 
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+# Project presentation
+<p>You can find more information about the OBJeika project on Behance:<br />
+  <a href="https://www.behance.net/gallery/208498581/bravo-online-fashion-store" target="_blank" rel="noopener noreferrer">View the Bravo project presentation</a>
+</p>
