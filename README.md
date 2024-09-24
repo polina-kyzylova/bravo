@@ -1,7 +1,7 @@
 # About
 The goal of the project is to create a minimum viable product (MVP) for an online store for the Bravo fashion boutique. This project is not for commercial purposes, but rather to develop front-end development skills.
 
-<a href="" target="_blank" rel="noopener noreferrer">View the Bravo website</a>
+<a href="https://polina-kyzylova.github.io/bravo/" target="_blank" rel="noopener noreferrer">View the Bravo website</a>
 
 # Project presentation
 <p>You can find more information about the OBJeika project on Behance:<br />
