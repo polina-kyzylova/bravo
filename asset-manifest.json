@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/bravo/static/css/main.43542369.css",
+    "main.js": "/bravo/static/js/main.7cc86dc5.js",
+    "static/media/ForestSmooth-Regular.ttf": "/bravo/static/media/ForestSmooth-Regular.1f974f3732b78829b4be.ttf",
+    "static/media/cover.jpg": "/bravo/static/media/cover.2d13dff60eeecb5015bc.jpg",
+    "index.html": "/bravo/index.html",
+    "main.43542369.css.map": "/bravo/static/css/main.43542369.css.map",
+    "main.7cc86dc5.js.map": "/bravo/static/js/main.7cc86dc5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.43542369.css",
+    "static/js/main.7cc86dc5.js"
+  ]
+}
