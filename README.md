@@ -4,6 +4,6 @@ The goal of the project is to create a minimum viable product (MVP) for an onlin
 <a href="https://polina-kyzylova.github.io/bravo/" target="_blank" rel="noopener noreferrer">View the Bravo website</a>
 
 # Project presentation
-<p>You can find more information about the OBJeika project on Behance:<br />
+<p>You can find more information about the Bravo project on Behance:<br />
   <a href="https://www.behance.net/gallery/208498581/bravo-online-fashion-store" target="_blank" rel="noopener noreferrer">View the Bravo project presentation</a>
 </p>
